@@ -10,14 +10,14 @@ Wk01 Jan 19
 
 - Intro
 - Syllabus
-- [What is Open Source and Why do I Feel so Guilty?](http://byfat.xxx/what-is-opensource-and-why-do-i-feel-so-guilty) (and the [accompanying "slides"](http://fat.github.io/slides-os-guilt/), which are rad)
+- [_What is Open Source and Why do I Feel so Guilty?_](http://byfat.xxx/what-is-opensource-and-why-do-i-feel-so-guilty) (and the [accompanying "slides"](http://fat.github.io/slides-os-guilt/), which are rad)
 - Intro to git / github (everything we do we'll make repos in this [github org](https://github.com/gd399-osd))
 - Explanation of what we'll do... what I mean by "Open source" (what is FLOSS, etc.)
 - Homework:
 
   1. Find an open source project to bring to class next week
-  2. Read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-  3. Read [The Cathedral and the Bazaar]()
+  2. Read [_How to Contribute to Open Source_](https://opensource.guide/how-to-contribute/)
+  3. Read [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain) (read it online, or in the booklet I provided)
 
 Wk02 Jan 26
 
