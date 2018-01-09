@@ -6,7 +6,9 @@ Special Topics in Graphic Design: Open Source Faculty: Kristian Bjørnard
 
 subject to change...
 
-Wk01 Jan 19
+Potential visitors/digital guests: David Crossland, Garth Braithwaite, Karen Shea, Will Holman, Micah Rich,
+
+**Wk01 Jan 19**
 
 - Intro
 - Syllabus
@@ -19,7 +21,7 @@ Wk01 Jan 19
   2. Read [_How to Contribute to Open Source_](https://opensource.guide/how-to-contribute/)
   3. Read [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain) (read it online, or in the booklet I provided)
 
-Wk02 Jan 26
+**Wk02 Jan 26**
 
 - Discuss points from TCTB: How does this related to graphic designing?
 - Look at projects everyone found
@@ -30,35 +32,50 @@ Wk02 Jan 26
   - [Inkscape](https://inkscape.org/en/) (instead of Illustrator)
   - [Gimp](https://www.gimp.org/) (instead of Photoshop)
   - [Blender](https://www.blender.org/) (instead of After Effects/Cinema 4D)
+  - [FontForge](https://fontforge.github.io/en-US/)
   - (we can add all of your found things to this list)
 
-Wk03 Feb 02
+- Homework:
 
-Wk04 Feb 09
+  1. Read []()
+  2. Read []()
 
-Wk05 Feb 16
+**Wk03 Feb 02**
 
-Wk06 Feb 23
+**Wk04 Feb 09**
 
-Wk07 Mar 02
+**Wk05 Feb 16**
 
-Wk08 Mar 09
+**Wk06 Feb 23**
 
-Wk09 Mar 16 (Spring Break)
+**Wk07 Mar 02**
 
-Wk10 Mar 23
+**Wk08 Mar 09**
 
-Wk11 Mar 30
+**Wk09 Mar 16** (Spring Break)
 
-Wk12 Apr 06
+**Wk10 Mar 23**
 
-Wk13 Apr 13
+**Wk11 Mar 30**
 
-Wk14 Apr 20
+**Wk12 Apr 06**
 
-Wk15 Apr 27
+**Wk13 Apr 13**
 
-Wk16 May 4
+- Divvy up book sections/tasks
+
+**Wk14 Apr 20**
+
+- Working
+
+**Wk15 Apr 27**
+
+- Finish collecting book materials
+- split into groups for book/website assignments
+
+**Wk16 May 4**
+
+- Produce Book
 
 ## Resources/More Readings/Etc.
 
@@ -80,6 +97,14 @@ Please add/edit/organize items as the term moves along!
 - [Velvetyne](http://velvetyne.fr/)
 - [OSP / Open Source Publishing](http://osp.kitchen/foundry/)
 
+### Imagery/Artwork:
+
+- [Open Clipart](https://openclipart.org)
+- [Flickr Commons](https://www.flickr.com/commons)
+- [Unsplash](https://unsplash.com/)
+- [The Noun Project](https://thenounproject.com/) (some of the stuff is public domain, some of it remixable w/ CC licenses ...)
+
 ### General
 
+- [Creative Commons](https://creativecommons.org/)
 - [Libre Graphics Magazine](http://libregraphicsmag.com/)
