@@ -14,8 +14,10 @@ Wk01 Jan 19
 - Intro to git / github (everything we do we'll make repos in this [github org](https://github.com/gd399-osd))
 - Explanation of what we'll do... what I mean by "Open source" (what is FLOSS, etc.)
 - Homework:
-- Find an open source project to bring to class next week
-- Read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+
+  1. Find an open source project to bring to class next week
+  2. Read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+  3. Read [The Cathedral and the Bazaar]()
 
 Wk02 Jan 26
 
@@ -47,9 +49,26 @@ Wk15 Apr 27
 
 Wk16 May 4
 
-## resources-readings
+## Resources/More Readings/Etc.
+
+Please add/edit/organize items as the term moves along!
+
+- [General Evolving collection of things](https://www.one-tab.com/page/ArjARldES_yCrrkdlr5o7Q)
+- [KB's Open Source Are.na Collection](https://www.are.na/kristian-bjornard/open-source-design-1513321291)
+
+### Git/Github Related:
 
 - [Setup Git](https://help.github.com/articles/set-up-git/)
 - [Github Guides: Hello World](https://guides.github.com/activities/hello-world/)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
+
+### Typefaces:
+
+- [Google Fonts](https://fonts.google.com/)
+- [Velvetyne](http://velvetyne.fr/)
+- [OSP / Open Source Publishing](http://osp.kitchen/foundry/)
+
+### General
+
+- [Libre Graphics Magazine](http://libregraphicsmag.com/)
