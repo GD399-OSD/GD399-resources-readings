@@ -10,7 +10,12 @@ Wk01 Jan 19
 
 - Intro
 - Syllabus
-- [What is Open Source and Why do I Feel so Guilty?](http://byfat.xxx/what-is-opensource-and-why-do-i-feel-so-guilty)
+- [What is Open Source and Why do I Feel so Guilty?](http://byfat.xxx/what-is-opensource-and-why-do-i-feel-so-guilty) (and the [accompanying "slides"](http://fat.github.io/slides-os-guilt/), which are rad)
+- Intro to git / github (everything we do we'll make repos in this [github org](https://github.com/gd399-osd))
+- Explanation of what we'll do... what I mean by "Open source" (what is FLOSS, etc.)
+- Homework:
+- Find an open source project to bring to class next week
+- Read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
 Wk02 Jan 26
 
@@ -44,4 +49,7 @@ Wk16 May 4
 
 ## resources-readings
 
-General content to kick the term off...
+- [Setup Git](https://help.github.com/articles/set-up-git/)
+- [Github Guides: Hello World](https://guides.github.com/activities/hello-world/)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+- [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
