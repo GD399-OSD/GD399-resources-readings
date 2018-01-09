@@ -1,0 +1,99 @@
+resources/glossary
+
+Apache license: A permissive license, normally used for software, developed by the Apache Software Foundation.
+
+ASCII: An early standard used for the encoding of characters. Notable for its small character set, which can be contrasted with Unicode.
+
+Bézier curve: A type of mathematical curve used extensively in vector graphics.
+
+Blender: A powerful 3D animation application for GNU/Linux, Mac OS X and Microsoft Windows.
+
+C: A popular, early programming language, still widely used, especially in high performance application.
+
+Cache: A temporary, local copy of a file or files, often used to speed up loading times for websites.
+
+CAPTCHA: System for differentiating humans from computers, through the ability to recognize sets of random, distorted characters. Commonly used for SPAM prevention. 
+
+CMS: Stands for Content Management System. Software installed on a server in order to provide a simple framework for editing web pages. WordPress and Drupal are examples of content management systems. 
+
+Creative Commons: A suite of licenses designed to allow creators and users of works flexibility beyond that offered in traditional copyright.
+
+Database: Read-write venue for storing information, applied broadly in computation. 
+
+F/LOSS: Stands for Free/Libre Open Source Software. Software which has a viewable, modifiable source. It can be modified and redistributed.
+
+FontForge: A F/LOSS font editor for GNU/Linux, Mac OS X and Microsoft Windows.
+
+Free: As in freedom, or often, that which is or is of Free Software.
+
+Free Software: A term describing software which is made available under licenses permitting users to not only run it, but to examine its code, redistribute it and modify it.
+
+Front end/back end: A distinction in web development between code which runs on the computer of the person viewing a given site (front end) and on the server which hosts the site (back end).
+
+Geomerative: Library for Processing, with capacity for vector graphics and typography.
+
+GIMP: A raster based image editor for GNU/Linux, Mac OS X and Microsoft Windows. 
+
+Git: A popular version control system, originally created to manage development of the Linux kernel.
+
+GNU/Linux: A group of operating systems which are built on the Linux kernel and components from the GNU project, among others, which are widely distributed and freely modifiable.
+
+Java: A programming language and platform developed by Sun Microsystems, intended for nearly universal compatibility with a variety of devices. 
+
+JavaScript: A scripting language commonly used on websites. 
+
+Kdenlive: F/LOSS video editor, available for GNU/Linux, Mac OS X, FreeBSD.
+
+Library: An encapsulated set of functions intended to be used in the development of larger programs. Often used to make common tasks easier to implement.
+
+Libre: A less ambiguous adaptation of the word Free. Implies liberty of use, modification and distribution.
+
+Open hardware: Hardware which follows the same principles as F/LOSS, including publicly available, freely licensed schematics.
+
+Open source: See F/LOSS
+
+Open standards: A standard which is available for viewing and implementation by any party, often at no monetary cost.
+
+Processing: A programming language and development environment predominantly used for visually-oriented or media-rich projects. Available for GNU/Linux, Mac OS X and Microsoft Windows.
+
+Programming language: An artificial language with a restricted syntax, used as an intermediary between computers and human programmers. 
+
+Proprietary: A piece of software or other work which does not make available its source, which is not allowed or intended to be modified or redistributed without permission.
+
+Public domain: The legal status of a creative work for which the copyright (or other rights restriction) has expired. A work in the public domain can be used by anyone, for any purpose, without restriction. Licenses such as the Creative Commons CC0 license emulate public domain.
+
+Pure Data: A visual programming environment designed for the production of interactive multimedia and audio works. Available for GNU/Linux, Max OS X, Microsoft Windows, iOS and Android.
+
+Python: A popular interactive programming language. Available for GNU/Linux, Mac OS X and Microsoft Windows.
+
+Raster: A method of images which makes use of pixels of colour. Treating an image like a grid of squares, pixels are laid out to form shapes.
+
+Ruby: A modern scripting language commonly used in web development. 
+
+Ruby on Rails: A popular framework, written in Ruby, used to make web applications.
+
+Scalable Vector Graphics (SVG): A standard for vector graphics, developed by the W3C.
+
+Server: A computer hosting data which is accessed remotely. 
+
+SIL Open Font License (OFL): A license intended for use with fonts and font related software. Dictates terms which allow modification and redistribution of fonts.
+
+Synfig: Timeline-based animation software supporting both vectors and rasters. Available for GNU/Linux, Mac OS X and Windows.
+
+Template: In software or content management terms, a pre-made set of styles which can be applied on-demand to content.
+
+TeX: A code-based typesetting system.
+
+TrueType: A common vector-based font format.
+
+UFO (Unified Font Object): A cross-platform font format, based on XML. Intended to be human-readable.
+
+Unicode: A standard used for the encoding of characters. The term is often used to refer to the set of characters defined by the standard.
+
+Version control: A means of managing changes (and allowing reversion) to a commonly held body of work, most often a software project. 
+
+Web font: A font housed on a server which can be dynamically called up for use on a web page.
+
+Web-scraping: The use of automated tools such as scripts to extract text and other information from web pages with minimal human intervention.
+
+XPM (XPixMap):An image file format, which uses ASCII characters and a defined palette to describe a raster image.
