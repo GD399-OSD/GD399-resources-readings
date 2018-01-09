@@ -21,6 +21,17 @@ Wk01 Jan 19
 
 Wk02 Jan 26
 
+- Discuss points from TCTB: How does this related to graphic designing?
+- Look at projects everyone found
+- Using FLOSS
+
+  - GNU/Linux (via some raspberry pis)
+  - [Scribus](https://www.scribus.net/) (instead of InDesign)
+  - [Inkscape](https://inkscape.org/en/) (instead of Illustrator)
+  - [Gimp](https://www.gimp.org/) (instead of Photoshop)
+  - [Blender](https://www.blender.org/) (instead of After Effects/Cinema 4D)
+  - (we can add all of your found things to this list)
+
 Wk03 Feb 02
 
 Wk04 Feb 09
