@@ -10,6 +10,8 @@ Potential visitors/digital guests: David Crossland, Garth Braithwaite, Karen She
 
 **Wk01 Jan 19**
 
+By libre Graphics we mean "free, Libre and Open Source tools for creative uses". LGM is not just about software, but extends to standards and file formats used in creative work.
+
 - Intro
 - Syllabus
 - [_What is Open Source and Why do I Feel so Guilty?_](http://byfat.xxx/what-is-opensource-and-why-do-i-feel-so-guilty) (and the [accompanying "slides"](http://fat.github.io/slides-os-guilt/), which are rad)
@@ -49,16 +51,22 @@ Potential visitors/digital guests: David Crossland, Garth Braithwaite, Karen She
 
 **Wk03 Feb 02**
 
+- Discuss points from readings?
+- Experiment w/ FLOSS in class
+- Enzo Mari [Enzo Mari for Artek: Homage to Autoprogettazione](https://vimeo.com/39684024) (and here are all the [Autoprogettazione plans](/PDFs/Enzo-Mari-Autoprogettazione.pdf))
 - Homework:
 
   1. Read Designer As Author
   2. Read [Beyond The New: A Search For Ideals In Design](http://www.readingdesign.org/beyond-the-new)
+  3. Experiment on your own -- find more tools, find more fonts, find more resources, try out scribus or fontforge or whatever.
 
 **Wk04 Feb 09**
 
+- Discuss points from readings?
+- What have you made so far? What are you thinking so far? What's to come?
 - Homework:
 
-  1. Read How Buildings Learn From Each Other (if you liked that chapter, the BBC did a whole 6 part series of videos on How Buildings Learn)
+  1. Read How Buildings Learn From Each Other (if you liked this chapter, the BBC did a whole 6 part series of videos on How Buildings Learn)
 
 **Wk05 Feb 16**
 
@@ -123,6 +131,7 @@ Please add/edit/organize items as the term moves along!
 ### General
 
 - [Creative Commons](https://creativecommons.org/)
+- [Libre Graphics Meeting](http://libregraphicsmeeting.org/)
 - [Libre Graphics Magazine](http://libregraphicsmag.com/)
 
 ## People
