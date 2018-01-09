@@ -6,7 +6,7 @@ Special Topics in Graphic Design: Open Source Faculty: Kristian Bjørnard
 
 subject to change...
 
-Potential visitors/digital guests: David Crossland, Garth Braithwaite, Karen Shea, Will Holman, Micah Rich,
+Potential visitors/digital guests: David Crossland, Garth Braithwaite, Karen Shea, Will Holman, Micah Rich, Eric Schrijver, Loraine Furter, Daniel Schiavone ...
 
 **Wk01 Jan 19**
 
@@ -35,14 +35,30 @@ Potential visitors/digital guests: David Crossland, Garth Braithwaite, Karen She
   - [FontForge](https://fontforge.github.io/en-US/)
   - (we can add all of your found things to this list)
 
+- [Designers can Open Source](http://opendesign.foundation/articles/designers-can-open-source-session-video/)
+
 - Homework:
 
-  1. Read []()
-  2. Read []()
+  1. Play around with some FLOSS tools (what we looked at in class, or download some things of your own from our newly created master list of awesome!)
+  2. Read [The Gnu Manifesto](https://www.gnu.org/gnu/manifesto.html)
+  3. Read [The Whole Earth Catalog]()
+  4. Read [Open Source Design Manifesto]()
+  5. Read [Open Source Design Is Now Design Open]()
+  6. Read [Designing Open Source]()
+  7. Read [The problem with open source design]()
 
 **Wk03 Feb 02**
 
+- Homework:
+
+  1. Read Designer As Author
+  2. Read [Beyond The New: A Search For Ideals In Design](http://www.readingdesign.org/beyond-the-new)
+
 **Wk04 Feb 09**
+
+- Homework:
+
+  1. Read How Buildings Learn From Each Other (if you liked that chapter, the BBC did a whole 6 part series of videos on How Buildings Learn)
 
 **Wk05 Feb 16**
 
@@ -108,3 +124,7 @@ Please add/edit/organize items as the term moves along!
 
 - [Creative Commons](https://creativecommons.org/)
 - [Libre Graphics Magazine](http://libregraphicsmag.com/)
+
+## People
+
+- <http://lorainefurter.net/> -
