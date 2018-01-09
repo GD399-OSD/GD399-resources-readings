@@ -124,6 +124,8 @@ GNU General Public License (GPL): A license originally intended for use with sof
 
 GNU/Linux: A group of operating systems which are built on the Linux kernel and components from the GNU project, among others, which are widely distributed and freely modifiable.
 
+Gtk Vector Screenshot: screenshot module that takes vector screenshots. No more flat, un-scalable screen captures.
+
 ## H
 
 Hacktivism: A movement or school of belief based around the ideas of networked activism, aided by technical knowledge.
@@ -234,6 +236,10 @@ Paper.js: A web-friendly JavaScript version of Scriptographer.
 
 PCB: A printed circuit board, the base of most electronics, generally consisting of a number of electronic components linked together to form certain types of circuits.
 
+Pdf Chain: a convenient addition to another small and useful tool, Pdftk. Allows users to merge, split, and make other modifications to multi-page pdf documents.
+
+Pdftk: A tool for merging several PDFs into one (among many, many other uses), for instance might be useful is merging PDFs from several smaller Scribus files rather than one large one...
+
 Pencil: 2D animation software with support for both vectors and rasters. Available for GNU/Linux, Mac OS X and Microsoft Windows.
 
 Perl: A popular programming language, often used for writing web applications.
@@ -249,6 +255,8 @@ Programming language: An artificial language with a restricted syntax, used as a
 Proprietary: A piece of software or other work which does not make available its source, which is not allowed or intended to be modified or redistributed without permission.
 
 Public domain: The legal status of a creative work for which the copyright (or other rights restriction) has expired. A work in the public domain can be used by anyone, for any purpose, without restriction. Licenses such as the Creative Commons CC0 license emulate public domain.
+
+Public Domain Review: Not a tool, but a resource. _The Public Domain Review_ is a gateway to interesting works in the public domain. Saving you from slogging through all the public domain work available, the _Review_ presents curated collections of particularly interesting works. <http://publicdomainreview.org/>
 
 Pure Data: A visual programming environment designed for the production of interactive multimedia and audio works. Available for GNU/Linux, Max OS X, Microsoft Windows, iOS and Android.
 
@@ -337,6 +345,8 @@ UFO (Unified Font Object): A cross-platform font format, based on XML. Intended 
 UI: User Interface. Refers to the set of disciplines and practices related to designing and implementing the elements which allow people to interact with computers, both in hardware (keyboards, touchscreens) and software (buttons, sliders and layouts).
 
 Unicode: A standard used for the encoding of characters. The term is often used to refer to the set of characters defined by the standard.
+
+Unpaper: a command line tool designed to correct issues in scanned book pages. It removes excess darkness around edges, rotates, and de-skews. <http://unpaper.berlios.de>
 
 UX: User Experience. Comprises the spectrum of subjects related to UI, considering them under the lens of psychology, ergonomics and human behaviour.
 
