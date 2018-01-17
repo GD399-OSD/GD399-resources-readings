@@ -140,6 +140,7 @@ Please add/edit/organize items as the term moves along!
 
 ### General
 
+- [F/LOSS Manuals](http://flossmanuals.net/)
 - [Creative Commons](https://creativecommons.org/)
 - <https://copyleft.org/>
 - [Libre Graphics Meeting](http://libregraphicsmeeting.org/)
@@ -157,6 +158,7 @@ Please add/edit/organize items as the term moves along!
 - Eric Schrijver
 - <https://web.archive.org/web/20160628203143/http://stdin.fr/Bazar/Bazar>
 - <http://stdin.fr/>
+- [Michael Mandiberg](http://www.mandiberg.com/)
 
 ## Play
 
