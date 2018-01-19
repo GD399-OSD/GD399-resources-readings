@@ -134,6 +134,9 @@ Please add/edit/organize items as the term moves along!
 - [Unsplash](https://unsplash.com/)
 - [The Noun Project](https://thenounproject.com/) (some of the stuff is public domain, some of it remixable w/ CC licenses ...)
 
+### Software:
+- [osalt.com](https://www.osalt.com/) — A directory of open-source alternatives to common software.
+
 ### General
 
 - [Creative Commons](https://creativecommons.org/)
