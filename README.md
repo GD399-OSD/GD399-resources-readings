@@ -137,6 +137,7 @@ Please add/edit/organize items as the term moves along!
 - [Creative Commons](https://creativecommons.org/)
 - [Libre Graphics Meeting](http://libregraphicsmeeting.org/)
 - [Libre Graphics Magazine](http://libregraphicsmag.com/)
+- [Apache Foundation](http://www.apache.org/index.html#projects-list) - this is a big list of open source software and libraries hosted by the Apache foundation.
 
 ## People
 
