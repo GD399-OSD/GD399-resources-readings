@@ -145,6 +145,7 @@ Please add/edit/organize items as the term moves along!
 - <http://xxyxyz.org/flat/> & <http://xxyxyz.org/even/>
 - <http://conversations.tools/>
 - <http://internet-atlas.net/>
+- <http://www.jjg.net/elements/>
 
 ### People/Studios
 

@@ -210,6 +210,8 @@ OCR: Stands for Optical Character Recognition. Refers to the algorithms and tech
 
 Open Data: A concept (and associated movement) promoting the public availability and sharing of data. Often associated with efforts to make government data public; A movement defending transparency and openness of public records and their availability in open formats.
 
+Open Field: Open Field is a place to express your talents and interests and to share them with others. The public is invited to participate in Open Field in multiple ways. Walker Art Center invites the public to help transform its big green backyard into Open Field, a place to celebrate and share in the cultural assets, creative spirit, and collective knowledge that abound in the Twin Cities. The initiative began with a simple question--"What would you do in an open field?"--and yielded a rich array of responses. Open Field taps into thriving and stillevolving participatory cultures and draws on the spirit of the creative commons: the belief that some cultural resources can and should be commonly owned, such as images, languages, ideas, computer code, and other information. The public, of course, plays an important role in helping to shape Open Field with their own activities--planned or spontaneous.
+
 Open Hardware: Hardware which follows the same principles as F/LOSS, including publicly available, freely licensed schematics.
 
 Open License: A license which allows and encourages re-use and appropriation of creative works, in contrast to the all rights restricted norm provided by traditional copyright. Examples include the GNU GPL, the SIL OFL and the Creative Commons family of licenses.
