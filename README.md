@@ -125,6 +125,7 @@ Please add/edit/organize items as the term moves along!
 - <http://birdfont.org/>
 - <https://www.prototypo.io/>
 - <https://www.freetype.org/ttfautohint/>
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 
 ### Imagery/Artwork:
 
@@ -147,16 +148,12 @@ Please add/edit/organize items as the term moves along!
 
 ### People/Studios
 
-<<<<<<< HEAD
-- <http://lorainefurter.net/> -
-=======
 - <http://lorainefurter.net/>
 - Eric Schrijver
 - <https://web.archive.org/web/20160628203143/http://stdin.fr/Bazar/Bazar>
 - <http://stdin.fr/>
 
-### Play
+## Play
 
 - <https://scri.ch/>
 - <http://beautifulopen.com/>
->>>>>>> f0f7109... oops, didnot mean to include all those pdfs
