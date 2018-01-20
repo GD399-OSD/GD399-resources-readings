@@ -114,12 +114,17 @@ Please add/edit/organize items as the term moves along!
 - [Github Guides: Hello World](https://guides.github.com/activities/hello-world/)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
+- [How do you usually explain Git to design students?](http://freeze.sh/_/2015/conversations/dvc)
 
 ### Typefaces:
 
 - [Google Fonts](https://fonts.google.com/)
 - [Velvetyne](http://velvetyne.fr/)
 - [OSP / Open Source Publishing](http://osp.kitchen/foundry/)
+- <http://brick.im/>
+- <http://birdfont.org/>
+- <https://www.prototypo.io/>
+- <https://www.freetype.org/ttfautohint/>
 
 ### Imagery/Artwork:
 
@@ -131,9 +136,27 @@ Please add/edit/organize items as the term moves along!
 ### General
 
 - [Creative Commons](https://creativecommons.org/)
+- <https://copyleft.org/>
 - [Libre Graphics Meeting](http://libregraphicsmeeting.org/)
 - [Libre Graphics Magazine](http://libregraphicsmag.com/)
+- <http://reader.lgru.net/pages/index/>
+- [Grapa](http://grapa.ourproject.org/?lang=en)
+- <http://xxyxyz.org/flat/> & <http://xxyxyz.org/even/>
+- <http://conversations.tools/>
+- <http://internet-atlas.net/>
 
-## People
+### People/Studios
 
+<<<<<<< HEAD
 - <http://lorainefurter.net/> -
+=======
+- <http://lorainefurter.net/>
+- Eric Schrijver
+- <https://web.archive.org/web/20160628203143/http://stdin.fr/Bazar/Bazar>
+- <http://stdin.fr/>
+
+### Play
+
+- <https://scri.ch/>
+- <http://beautifulopen.com/>
+>>>>>>> f0f7109... oops, didnot mean to include all those pdfs
