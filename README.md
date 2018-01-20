@@ -121,14 +121,11 @@ Please add/edit/organize items as the term moves along!
 - [Google Fonts](https://fonts.google.com/)
 - [Velvetyne](http://velvetyne.fr/)
 - [OSP / Open Source Publishing](http://osp.kitchen/foundry/)
-<<<<<<< HEAD
 - <http://brick.im/>
 - <http://birdfont.org/>
 - <https://www.prototypo.io/>
 - <https://www.freetype.org/ttfautohint/>
-=======
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
->>>>>>> 7b6f814... Add League of Moveable Type to the typefaces section because good open source fonts
 
 ### Imagery/Artwork:
 
@@ -136,6 +133,9 @@ Please add/edit/organize items as the term moves along!
 - [Flickr Commons](https://www.flickr.com/commons)
 - [Unsplash](https://unsplash.com/)
 - [The Noun Project](https://thenounproject.com/) (some of the stuff is public domain, some of it remixable w/ CC licenses ...)
+
+### Software:
+- [osalt.com](https://www.osalt.com/) — A directory of open-source alternatives to common software.
 
 ### General
 
@@ -150,6 +150,7 @@ Please add/edit/organize items as the term moves along!
 - <http://conversations.tools/>
 - <http://internet-atlas.net/>
 - <http://www.jjg.net/elements/>
+- [Apache Foundation](http://www.apache.org/index.html#projects-list) - this is a big list of open source software and libraries hosted by the Apache foundation.
 
 ### People/Studios
 
