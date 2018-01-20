@@ -135,7 +135,8 @@ Please add/edit/organize items as the term moves along!
 - [The Noun Project](https://thenounproject.com/) (some of the stuff is public domain, some of it remixable w/ CC licenses ...)
 
 ### Software:
-- [osalt.com](https://www.osalt.com/) — A directory of open-source alternatives to common software.
+
+- [osalt.com](https://www.osalt.com/) -- A directory of open-source alternatives to common software.
 
 ### General
 
@@ -148,6 +149,7 @@ Please add/edit/organize items as the term moves along!
 - <http://xxyxyz.org/flat/> & <http://xxyxyz.org/even/>
 - <http://conversations.tools/>
 - <http://internet-atlas.net/>
+- [Apache Foundation](http://www.apache.org/index.html#projects-list) - this is a big list of open source software and libraries hosted by the Apache foundation.
 
 ### People/Studios
 
