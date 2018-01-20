@@ -16,7 +16,7 @@ By libre Graphics we mean "free, Libre and Open Source tools for creative uses".
 - Syllabus
 - [_What is Open Source and Why do I Feel so Guilty?_](http://byfat.xxx/what-is-opensource-and-why-do-i-feel-so-guilty) (and the [accompanying "slides"](http://fat.github.io/slides-os-guilt/), which are rad)
 - Intro to git / github (everything we do we'll make repos in this [github org](https://github.com/gd399-osd))
-- Explanation of what we'll do... what I mean by "Open source" (what is FLOSS, etc.)
+- Explanation of what we'll do... what I mean by "Open source" (what is F/LOSS, etc.)
 - Homework:
 
   1. Find an open source project to bring to class next week
@@ -27,7 +27,7 @@ By libre Graphics we mean "free, Libre and Open Source tools for creative uses".
 
 - Discuss points from TCTB: How does this related to graphic designing?
 - Look at projects everyone found
-- Using FLOSS
+- Using F/LOSS
 
   - GNU/Linux (via some raspberry pis)
   - [Scribus](https://www.scribus.net/) (instead of InDesign)
@@ -41,7 +41,7 @@ By libre Graphics we mean "free, Libre and Open Source tools for creative uses".
 
 - Homework:
 
-  1. Play around with some FLOSS tools (what we looked at in class, or download some things of your own from our newly created master list of awesome!)
+  1. Play around with some F/LOSS tools (what we looked at in class, or download some things of your own from our newly created master list of awesome!)
   2. Read [The Gnu Manifesto](https://www.gnu.org/gnu/manifesto.html)
   3. Read [The Whole Earth Catalog]()
   4. Read [Open Source Design Manifesto]()
@@ -52,7 +52,7 @@ By libre Graphics we mean "free, Libre and Open Source tools for creative uses".
 **Wk03 Feb 02**
 
 - Discuss points from readings?
-- Experiment w/ FLOSS in class
+- Experiment w/ F/LOSS in class
 - Enzo Mari [Enzo Mari for Artek: Homage to Autoprogettazione](https://vimeo.com/39684024) (and here are all the [Autoprogettazione plans](/PDFs/Enzo-Mari-Autoprogettazione.pdf))
 - Homework:
 
@@ -114,12 +114,17 @@ Please add/edit/organize items as the term moves along!
 - [Github Guides: Hello World](https://guides.github.com/activities/hello-world/)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
+- [How do you usually explain Git to design students?](http://freeze.sh/_/2015/conversations/dvc)
 
 ### Typefaces:
 
 - [Google Fonts](https://fonts.google.com/)
 - [Velvetyne](http://velvetyne.fr/)
 - [OSP / Open Source Publishing](http://osp.kitchen/foundry/)
+- <http://brick.im/>
+- <http://birdfont.org/>
+- <https://www.prototypo.io/>
+- <https://www.freetype.org/ttfautohint/>
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 
 ### Imagery/Artwork:
@@ -134,11 +139,28 @@ Please add/edit/organize items as the term moves along!
 
 ### General
 
+- [F/LOSS Manuals](http://flossmanuals.net/)
 - [Creative Commons](https://creativecommons.org/)
+- <https://copyleft.org/>
 - [Libre Graphics Meeting](http://libregraphicsmeeting.org/)
 - [Libre Graphics Magazine](http://libregraphicsmag.com/)
+- <http://reader.lgru.net/pages/index/>
+- [Grapa](http://grapa.ourproject.org/?lang=en)
+- <http://xxyxyz.org/flat/> & <http://xxyxyz.org/even/>
+- <http://conversations.tools/>
+- <http://internet-atlas.net/>
+- <http://www.jjg.net/elements/>
 - [Apache Foundation](http://www.apache.org/index.html#projects-list) - this is a big list of open source software and libraries hosted by the Apache foundation.
 
-## People
+### People/Studios
 
-- <http://lorainefurter.net/> -
+- <http://lorainefurter.net/>
+- Eric Schrijver
+- <https://web.archive.org/web/20160628203143/http://stdin.fr/Bazar/Bazar>
+- <http://stdin.fr/>
+- [Michael Mandiberg](http://www.mandiberg.com/)
+
+### Play
+
+- <https://scri.ch/>
+- <http://beautifulopen.com/>
