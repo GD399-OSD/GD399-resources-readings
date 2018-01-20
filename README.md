@@ -121,10 +121,14 @@ Please add/edit/organize items as the term moves along!
 - [Google Fonts](https://fonts.google.com/)
 - [Velvetyne](http://velvetyne.fr/)
 - [OSP / Open Source Publishing](http://osp.kitchen/foundry/)
+<<<<<<< HEAD
 - <http://brick.im/>
 - <http://birdfont.org/>
 - <https://www.prototypo.io/>
 - <https://www.freetype.org/ttfautohint/>
+=======
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
+>>>>>>> 7b6f814... Add League of Moveable Type to the typefaces section because good open source fonts
 
 ### Imagery/Artwork:
 
