@@ -165,3 +165,7 @@ Please add/edit/organize items as the term moves along!
 
 - <https://scri.ch/>
 - <http://beautifulopen.com/>
+
+### Other Readings Found
+
+- <https://bastianallgeier.com/notes/pressure>
