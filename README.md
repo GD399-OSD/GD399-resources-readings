@@ -20,8 +20,11 @@ By libre Graphics we mean "free, Libre and Open Source tools for creative uses".
 - Homework:
 
   1. Find an open source project to bring to class next week
-  2. Read [_How to Contribute to Open Source_](https://opensource.guide/how-to-contribute/)
-  3. Read [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain) (read it online, or in the booklet I provided)
+  2. Read [The Gnu Manifesto](https://www.gnu.org/gnu/manifesto.html)
+  4. Read [Open Source Design Manifesto]()
+  5. Read [Open Source Design Is Now Design Open]()
+  6. Read [Designing Open Source]()
+  7. Read [The problem with open source design]()
 
 **Wk02 Jan 26**
 
@@ -42,12 +45,7 @@ By libre Graphics we mean "free, Libre and Open Source tools for creative uses".
 - Homework:
 
   1. Play around with some F/LOSS tools (what we looked at in class, or download some things of your own from our newly created master list of awesome!)
-  2. Read [The Gnu Manifesto](https://www.gnu.org/gnu/manifesto.html)
-  3. Read [The Whole Earth Catalog]()
-  4. Read [Open Source Design Manifesto]()
-  5. Read [Open Source Design Is Now Design Open]()
-  6. Read [Designing Open Source]()
-  7. Read [The problem with open source design]()
+  3. Read [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain) (read it online, or in the booklet I provided)
 
 **Wk03 Feb 02**
 
@@ -57,6 +55,7 @@ By libre Graphics we mean "free, Libre and Open Source tools for creative uses".
 - Homework:
 
   1. Read Designer As Author
+  2. Read [_How to Contribute to Open Source_](https://opensource.guide/how-to-contribute/)
   2. Read [Beyond The New: A Search For Ideals In Design](http://www.readingdesign.org/beyond-the-new)
   3. Experiment on your own -- find more tools, find more fonts, find more resources, try out scribus or fontforge or whatever.
 
@@ -126,6 +125,7 @@ Please add/edit/organize items as the term moves along!
 - <https://www.prototypo.io/>
 - <https://www.freetype.org/ttfautohint/>
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
+- [BADASS LIBRE FONTS BY WOMXN](http://design-research.be/by-womxn/)
 
 ### Imagery/Artwork:
 
