@@ -38,8 +38,8 @@ By libre Graphics we mean "free, Libre and Open Source tools for creative uses".
   - [Gimp](https://www.gimp.org/) (instead of Photoshop)
   - [Blender](https://www.blender.org/) (instead of After Effects/Cinema 4D)
   - [FontForge](https://fontforge.github.io/en-US/)
-  - [RoundCube] (https://roundcube.net/)
-  - [RawGraphs] (http://rawgraphs.io/)
+  - [RoundCube](https://roundcube.net/)
+  - [RawGraphs](http://rawgraphs.io/)
   - (we can add all of your found things to this list)
 
 - [Designers can Open Source](http://opendesign.foundation/articles/designers-can-open-source-session-video/)
