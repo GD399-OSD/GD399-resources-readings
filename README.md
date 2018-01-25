@@ -139,6 +139,7 @@ Please add/edit/organize items as the term moves along!
 ### Software:
 
 - [osalt.com](https://www.osalt.com/) -- A directory of open-source alternatives to common software.
+- [The SeaMonkey Project]/[(https://www.seamonkey-project.org/) -- web browser, email client, IRC client, web editor all-in-one
 
 ### General
 
