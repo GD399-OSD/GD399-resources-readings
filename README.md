@@ -178,4 +178,4 @@ Please add/edit/organize items as the term moves along!
 - <https://bastianallgeier.com/notes/pressure>
 
 ### Activism
-[https-everywhere](https://github.com/EFForg/https-everywhere)
+- [https-everywhere](https://github.com/EFForg/https-everywhere)
