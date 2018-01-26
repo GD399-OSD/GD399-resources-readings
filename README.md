@@ -68,6 +68,7 @@ Please add/edit/organize items as the term moves along!
 - <https://web.archive.org/web/20160628203143/http://stdin.fr/Bazar/Bazar>
 - <http://stdin.fr/>
 - [Michael Mandiberg](http://www.mandiberg.com/)
+- [Paperhouses](http://www.paperhouses.co)
 
 ### Play
 
