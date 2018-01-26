@@ -109,6 +109,10 @@ Please add/edit/organize items as the term moves along!
 - [General Evolving collection of things](https://www.one-tab.com/page/ArjARldES_yCrrkdlr5o7Q)
 - [KB's Open Source Are.na Collection](https://www.are.na/kristian-bjornard/open-source-design-1513321291)
 
+
+### Class Are.na Channels:
+- [Devin](https://www.are.na/devin-halladay/open-source-design-1516937432) — Open [Source] Design
+
 ### Git/Github Related:
 
 - [Setup Git](https://help.github.com/articles/set-up-git/)
