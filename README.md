@@ -32,6 +32,7 @@ Please add/edit/organize items as the term moves along!
 - <https://www.freetype.org/ttfautohint/>
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 - [BADASS LIBRE FONTS BY WOMXN](http://design-research.be/by-womxn/)
+- [Axis-Praxis?](https://www.axis-praxis.org/specimens/__DEFAULT__)
 
 ### Imagery/Artwork:
 
