@@ -33,6 +33,7 @@ Please add/edit/organize items as the term moves along!
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 - [BADASS LIBRE FONTS BY WOMXN](http://design-research.be/by-womxn/)
 - [Axis-Praxis?](https://www.axis-praxis.org/specimens/__DEFAULT__)
+- [Google Fonts Early Access](https://fonts.google.com/earlyaccess)
 
 ### Imagery/Artwork:
 
