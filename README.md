@@ -77,6 +77,7 @@ Please add/edit/organize items as the term moves along!
 - <https://scri.ch/>
 - <http://beautifulopen.com/>
 - [sexualitics](https://github.com/sexualitics)-datasets on issues of love and porn
+- [Xonotic](https://www.xonotic.org/)
 
 ### Other Readings Found
 
