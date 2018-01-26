@@ -59,6 +59,7 @@ Please add/edit/organize items as the term moves along!
 - <http://internet-atlas.net/>
 - <http://www.jjg.net/elements/>
 - [Apache Foundation](http://www.apache.org/index.html#projects-list) - this is a big list of open source software and libraries hosted by the Apache foundation.
+- [Paperhouses](paperhouses.co) – Open Source Architecture 
 
 ### People/Studios
 
