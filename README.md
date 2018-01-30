@@ -86,5 +86,10 @@ Please add/edit/organize items as the term moves along!
 
 - <https://bastianallgeier.com/notes/pressure>
 
+### Finance
+
+- [StockSharp](https://github.com/StockSharp/StockSharp)
+- [Chronicle](https://github.com/OpenHFT)
+
 ### Activism
 - [https-everywhere](https://github.com/EFForg/https-everywhere)
