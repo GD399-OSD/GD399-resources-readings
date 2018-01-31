@@ -6,6 +6,8 @@ Special Topics in Graphic Design: Open Source Faculty: Kristian Bjørnard
 
 Please add/edit/organize items as the term moves along!
 
+I also started a [glossary](https://github.com/GD399-OSD/GD399-resources-readings/blob/master/glossary.md) that we can add to/edit ...
+
 ### Class Are.na Channels:
 
 - [Kristian](https://www.are.na/kristian-bjornard/open-source-design-1513321291) -- Open Source Design
