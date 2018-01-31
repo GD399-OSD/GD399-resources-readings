@@ -6,12 +6,10 @@ Special Topics in Graphic Design: Open Source Faculty: Kristian Bjørnard
 
 Please add/edit/organize items as the term moves along!
 
-- [General Evolving collection of things](https://www.one-tab.com/page/ArjARldES_yCrrkdlr5o7Q)
-- [KB's Open Source Are.na Collection](https://www.are.na/kristian-bjornard/open-source-design-1513321291)
-
-
 ### Class Are.na Channels:
-- [Devin](https://www.are.na/devin-halladay/open-source-design-1516937432) — Open [Source] Design
+
+- [Kristian](https://www.are.na/kristian-bjornard/open-source-design-1513321291) -- Open Source Design
+- [Devin](https://www.are.na/devin-halladay/open-source-design-1516937432) -- Open [Source] Design
 
 ### Git/Github Related:
 
@@ -44,10 +42,24 @@ Please add/edit/organize items as the term moves along!
 
 ### Software:
 
+- GNU/Linux (via some raspberry pis)
+- [Scribus](https://www.scribus.net/) (instead of InDesign)
+- [Inkscape](https://inkscape.org/en/) (instead of Illustrator)
+- [Gimp](https://www.gimp.org/) (instead of Photoshop)
+- [Blender](https://www.blender.org/) (instead of After Effects/Cinema 4D)
+- [FontForge](https://fontforge.github.io/en-US/)
+- [RoundCube](https://roundcube.net/)
+- [VPT7](https://hcgilje.wordpress.com/vpt/) [(Example)](https://www.youtube.com/watch?v=6w5-AhawgOU)
+- [Painting With Light](http://pwl.bigfug.com/) [(Example)](https://www.youtube.com/watch?v=jNTdks3WitI)
 - [osalt.com](https://www.osalt.com/) -- A directory of open-source alternatives to common software.
-- [The SeaMonkey Project]/[(https://www.seamonkey-project.org/) -- web browser, email client, IRC client, web editor all-in-one
+- [The SeaMonkey Project]/[(<https://www.seamonkey-project.org/>) -- web browser, email client, IRC client, web editor all-in-one
 - [Processing](https://processing.org/)
 - [Vault](https://www.vaultproject.io)
+
+### Web libraries
+
+- [RawGraphs](http://rawgraphs.io/)
+- [BonsaiJS](http://bonsaijs.org/)
 
 ### General
 
@@ -92,4 +104,10 @@ Please add/edit/organize items as the term moves along!
 - [Chronicle](https://github.com/OpenHFT)
 
 ### Activism
+
 - [https-everywhere](https://github.com/EFForg/https-everywhere)
+
+### General Readings
+
+- [The Gnu Manifesto](https://www.gnu.org/gnu/manifesto.html)
+- [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain)
