@@ -44,7 +44,7 @@ I also started a [glossary](https://github.com/GD399-OSD/GD399-resources-reading
 
 ### Software:
 
-- GNU/Linux (via some raspberry pis)
+- GNU/Linux
 - [Scribus](https://www.scribus.net/) (instead of InDesign)
 - [Inkscape](https://inkscape.org/en/) (instead of Illustrator)
 - [Gimp](https://www.gimp.org/) (instead of Photoshop)
@@ -57,6 +57,9 @@ I also started a [glossary](https://github.com/GD399-OSD/GD399-resources-reading
 - [The SeaMonkey Project]/[(<https://www.seamonkey-project.org/>) -- web browser, email client, IRC client, web editor all-in-one
 - [Processing](https://processing.org/)
 - [Vault](https://www.vaultproject.io)
+- [Shoebot](https://shoebot.github.io/shoebot/) & [ShoeBot on Github](https://github.com/shoebot/shoebot)
+- [Laidout](http://laidout.org/)
+- [Letter](https://github.com/bastianallgeier/letter)
 
 ### Web libraries
 
@@ -77,8 +80,14 @@ I also started a [glossary](https://github.com/GD399-OSD/GD399-resources-reading
 - <http://internet-atlas.net/>
 - <http://www.jjg.net/elements/>
 - [Apache Foundation](http://www.apache.org/index.html#projects-list) - this is a big list of open source software and libraries hosted by the Apache foundation.
-- <http://libreobjet.org/>
 - [open bible](http://openenglishbible.org/)
+- [Open Source 500: github projects in need of ux/ui/design](https://medium.freecodecamp.org/open-source-design-500-d6c29a689812)
+
+### stuff
+
+- <http://libreobjet.org/>
+- [Open Source Ecology](http://opensourceecology.org/)
+- [Precious Plastic Machines](https://preciousplastic.com/en/machines.html)
 
 ### People/Studios
 
@@ -111,5 +120,8 @@ I also started a [glossary](https://github.com/GD399-OSD/GD399-resources-reading
 
 ### General Readings
 
+- [_How to Contribute to Open Source_](https://opensource.guide/how-to-contribute/)
+- [_Github Opensource Guide_](https://opensource.guide/)
 - [The Gnu Manifesto](https://www.gnu.org/gnu/manifesto.html)
 - [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain)
+- [Two Bits](https://twobits.net/download/index.html)
