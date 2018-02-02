@@ -12,7 +12,7 @@ I also started a [glossary](https://github.com/GD399-OSD/GD399-resources-reading
 
 - [Kristian](https://www.are.na/kristian-bjornard/open-source-design-1513321291) -- Open Source Design
 - [Devin](https://www.are.na/devin-halladay/open-source-design-1516937432) -- Open [Source] Design
-- [Mazzy] (https://www.are.na/mazzy-bell/open-src) -- Open Src Design
+- [Mazzy](https://www.are.na/mazzy-bell/open-src) -- Open Src Design
 
 ### Git/Github Related:
 
