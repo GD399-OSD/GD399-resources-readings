@@ -60,11 +60,13 @@ I also started a [glossary](https://github.com/GD399-OSD/GD399-resources-reading
 - [Shoebot](https://shoebot.github.io/shoebot/) & [ShoeBot on Github](https://github.com/shoebot/shoebot)
 - [Laidout](http://laidout.org/)
 - [Letter](https://github.com/bastianallgeier/letter)
+- [Omeka](https://omeka.org/)
 
 ### Web libraries
 
 - [RawGraphs](http://rawgraphs.io/)
 - [BonsaiJS](http://bonsaijs.org/)
+- [OpenCV](https://opencv.org/)
 
 ### General
 
