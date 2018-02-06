@@ -85,6 +85,7 @@ I also started a [glossary](https://github.com/GD399-OSD/GD399-resources-reading
 - [Apache Foundation](http://www.apache.org/index.html#projects-list) - this is a big list of open source software and libraries hosted by the Apache foundation.
 - [open bible](http://openenglishbible.org/)
 - [Open Source 500: github projects in need of ux/ui/design](https://medium.freecodecamp.org/open-source-design-500-d6c29a689812) -- A collection of github projects w/ UI/UX/Design tagged issues.
+- <https://www.linuxfoundation.org/resources/open-source-guides/>
 
 ### stuff
 
