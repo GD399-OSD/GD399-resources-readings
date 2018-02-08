@@ -129,3 +129,6 @@ I also started a [glossary](https://github.com/GD399-OSD/GD399-resources-reading
 - [The Gnu Manifesto](https://www.gnu.org/gnu/manifesto.html)
 - [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain)
 - [Two Bits](https://twobits.net/download/index.html)
+
+### A Good Attitude (manifesto-ish stuff?) 
+- [Autarkytecture](http://blog.openstructures.net/pages/os-autarkytecture) related back to the second reading's discussion
