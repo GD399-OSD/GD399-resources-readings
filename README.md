@@ -62,7 +62,7 @@ I also started a [glossary](https://github.com/GD399-OSD/GD399-resources-reading
 - [Laidout](http://laidout.org/)
 - [Letter](https://github.com/bastianallgeier/letter)
 - [Omeka](https://omeka.org/)
-— [Pandoc](http://pandoc.org/) — A universal document converter for converting between closed and open formats.
+- [Pandoc](http://pandoc.org/) — A universal document converter for converting between closed and open formats.
 
 ### Web libraries
 
