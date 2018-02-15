@@ -14,6 +14,7 @@ I also started a [glossary](https://github.com/GD399-OSD/GD399-resources-reading
 - [Devin](https://www.are.na/devin-halladay/open-source-design-1516937432) -- Open [Source] Design
 - [Mazzy](https://www.are.na/mazzy-bell/open-src) -- Open Src Design
 - [Calvin](https://www.are.na/calvin-hutcheon/machine-learning-1517336026) -- machine learning and speculation
+- [Open For Discourse](https://www.are.na/open-for-discourse/mica-gd-open-discourse-1518547783) -- A public channel displayed in 307
 
 ### Git/Github Related:
 
