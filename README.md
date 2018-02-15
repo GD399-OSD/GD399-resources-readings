@@ -24,17 +24,19 @@ I also started a [glossary](https://github.com/GD399-OSD/GD399-resources-reading
 
 ### Typefaces:
 
-- [Google Fonts](https://fonts.google.com/)
-- [Velvetyne](http://velvetyne.fr/)
-- [OSP / Open Source Publishing](http://osp.kitchen/foundry/)
+- [Google Fonts](https://fonts.google.com/) — Open-source webfonts served by Google.
+- [Velvetyne](http://velvetyne.fr/) — Stunningly unusual libre fonts.
+- [OSP / Open Source Publishing](http://osp.kitchen/foundry/) 
 - <http://brick.im/>
-- <http://birdfont.org/>
-- <https://www.prototypo.io/>
 - <https://www.freetype.org/ttfautohint/>
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 - [BADASS LIBRE FONTS BY WOMXN](http://design-research.be/by-womxn/)
 - [Axis-Praxis?](https://www.axis-praxis.org/specimens/__DEFAULT__)
 - [Google Fonts Early Access](https://fonts.google.com/earlyaccess)
+
+### Type Design Software
+- [http://birdfont.org/](Birdfont) — Free, basic font editing software.
+- [https://www.prototypo.io/](Prototypo) — An online font customizer.
 
 ### Imagery/Artwork:
 
@@ -63,6 +65,9 @@ I also started a [glossary](https://github.com/GD399-OSD/GD399-resources-reading
 - [Letter](https://github.com/bastianallgeier/letter)
 - [Omeka](https://omeka.org/)
 - [Pandoc](http://pandoc.org/) — A universal document converter for converting between closed and open formats.
+
+## Open Source Initiatives by Major Companies:
+- [Kickstarter for iOS](https://www.kickstarter.com/mobile) — Kickstarter has open-sourced their iOS app!
 
 ### Web libraries
 
